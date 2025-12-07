@@ -1,0 +1,347 @@
+[
+  {
+    "target_idx": 173945,
+    "target_user_id": "B00YSG2ZPA",
+    "n_target_items": 24542,
+    "num_neighbors_raw": 500,
+    "num_neighbors_ds": 500,
+    "neighbor_overlap_count": 203,
+    "num_candidates_before": 5000,
+    "num_candidates_after": 5000,
+    "mad_on_common_predictions": 0.15346893746189305,
+    "perfect_similarity_examples": [],
+    "sample_neighbor_common_info": [
+      [
+        31291,
+        "B00006CXSS",
+        24343
+      ],
+      [
+        18768,
+        "6305837325",
+        1893
+      ],
+      [
+        118736,
+        "B003YCOIFO",
+        128
+      ],
+      [
+        421,
+        "0783112750",
+        176
+      ],
+      [
+        81355,
+        "B000WGWQG8",
+        392
+      ],
+      [
+        93140,
+        "B001AQO3WY",
+        160
+      ],
+      [
+        148187,
+        "B00BL0STWO",
+        32
+      ],
+      [
+        112452,
+        "B002RUNMMO",
+        97
+      ],
+      [
+        136918,
+        "B006ZY0PDW",
+        127
+      ],
+      [
+        8571,
+        "630305725X",
+        99
+      ],
+      [
+        59078,
+        "B000EULSR0",
+        200
+      ],
+      [
+        28320,
+        "B00005PJ8O",
+        122
+      ],
+      [
+        3763,
+        "6300246817",
+        122
+      ],
+      [
+        628,
+        "0792102320",
+        91
+      ],
+      [
+        22482,
+        "B00000K3AM",
+        104
+      ],
+      [
+        165036,
+        "B00M0GM4V0",
+        167
+      ],
+      [
+        108586,
+        "B002AMUDJY",
+        68
+      ],
+      [
+        3765,
+        "6300246876",
+        75
+      ],
+      [
+        143567,
+        "B009SCONXQ",
+        148
+      ],
+      [
+        41837,
+        "B0002ERXC2",
+        244
+      ]
+    ],
+    "time_seconds": 18.08
+  },
+  {
+    "target_idx": 173945,
+    "target_user_id": "B00YSG2ZPA",
+    "n_target_items": 24542,
+    "num_neighbors_raw": 500,
+    "num_neighbors_ds": 500,
+    "neighbor_overlap_count": 203,
+    "num_candidates_before": 5000,
+    "num_candidates_after": 5000,
+    "mad_on_common_predictions": 0.15346893746189305,
+    "perfect_similarity_examples": [],
+    "sample_neighbor_common_info": [
+      [
+        31291,
+        "B00006CXSS",
+        24343
+      ],
+      [
+        18768,
+        "6305837325",
+        1893
+      ],
+      [
+        118736,
+        "B003YCOIFO",
+        128
+      ],
+      [
+        421,
+        "0783112750",
+        176
+      ],
+      [
+        81355,
+        "B000WGWQG8",
+        392
+      ],
+      [
+        93140,
+        "B001AQO3WY",
+        160
+      ],
+      [
+        148187,
+        "B00BL0STWO",
+        32
+      ],
+      [
+        112452,
+        "B002RUNMMO",
+        97
+      ],
+      [
+        136918,
+        "B006ZY0PDW",
+        127
+      ],
+      [
+        8571,
+        "630305725X",
+        99
+      ],
+      [
+        59078,
+        "B000EULSR0",
+        200
+      ],
+      [
+        28320,
+        "B00005PJ8O",
+        122
+      ],
+      [
+        3763,
+        "6300246817",
+        122
+      ],
+      [
+        628,
+        "0792102320",
+        91
+      ],
+      [
+        22482,
+        "B00000K3AM",
+        104
+      ],
+      [
+        165036,
+        "B00M0GM4V0",
+        167
+      ],
+      [
+        108586,
+        "B002AMUDJY",
+        68
+      ],
+      [
+        3765,
+        "6300246876",
+        75
+      ],
+      [
+        143567,
+        "B009SCONXQ",
+        148
+      ],
+      [
+        41837,
+        "B0002ERXC2",
+        244
+      ]
+    ],
+    "time_seconds": 18.6
+  },
+  {
+    "target_idx": 173945,
+    "target_user_id": "B00YSG2ZPA",
+    "n_target_items": 24542,
+    "num_neighbors_raw": 500,
+    "num_neighbors_ds": 500,
+    "neighbor_overlap_count": 203,
+    "num_candidates_before": 5000,
+    "num_candidates_after": 5000,
+    "mad_on_common_predictions": 0.15346893746189305,
+    "perfect_similarity_examples": [],
+    "sample_neighbor_common_info": [
+      [
+        31291,
+        "B00006CXSS",
+        24343
+      ],
+      [
+        18768,
+        "6305837325",
+        1893
+      ],
+      [
+        118736,
+        "B003YCOIFO",
+        128
+      ],
+      [
+        421,
+        "0783112750",
+        176
+      ],
+      [
+        81355,
+        "B000WGWQG8",
+        392
+      ],
+      [
+        93140,
+        "B001AQO3WY",
+        160
+      ],
+      [
+        148187,
+        "B00BL0STWO",
+        32
+      ],
+      [
+        112452,
+        "B002RUNMMO",
+        97
+      ],
+      [
+        136918,
+        "B006ZY0PDW",
+        127
+      ],
+      [
+        8571,
+        "630305725X",
+        99
+      ],
+      [
+        59078,
+        "B000EULSR0",
+        200
+      ],
+      [
+        28320,
+        "B00005PJ8O",
+        122
+      ],
+      [
+        3763,
+        "6300246817",
+        122
+      ],
+      [
+        628,
+        "0792102320",
+        91
+      ],
+      [
+        22482,
+        "B00000K3AM",
+        104
+      ],
+      [
+        165036,
+        "B00M0GM4V0",
+        167
+      ],
+      [
+        108586,
+        "B002AMUDJY",
+        68
+      ],
+      [
+        3765,
+        "6300246876",
+        75
+      ],
+      [
+        143567,
+        "B009SCONXQ",
+        148
+      ],
+      [
+        41837,
+        "B0002ERXC2",
+        244
+      ]
+    ],
+    "time_seconds": 18.16
+  }
+]

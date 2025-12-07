@@ -1,0 +1,14 @@
+[
+  {
+    "target_idx": 173945,
+    "target_user_id": "B00YSG2ZPA",
+    "n_target_items": 24542,
+    "num_neighbors_pearson": 500,
+    "num_neighbors_ds": 500,
+    "neighbor_overlap_count": 96,
+    "num_candidates_before": 5000,
+    "num_candidates_after": 5000,
+    "mad_on_common_predictions": 0.3624267017670879,
+    "negative_pearson_examples": [
+      [
+        
